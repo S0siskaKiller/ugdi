@@ -29,7 +29,7 @@ int main() {
 			exit(0);
 			break;
 	}
-	// printf("Случайное число равно: %d\n", r); // debug
+	printf("Случайное число равно: %d\n", r); // чит клиент
 	do {
 		printf("введите свои догадки:");
 		int dog;
